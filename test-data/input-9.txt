@@ -1,0 +1,2 @@
+GT4500,0,0,10,0 # Primary is empty (0), secondary has 10
+TORPEDO,SINGLE # Primary is empty, so it fires secondary

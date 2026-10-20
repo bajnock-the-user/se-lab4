@@ -1,0 +1,3 @@
+GT4500,10,0,10,0 # Both stores have 10
+TORPEDO,SINGLE # 1st shot: fires primary -> sets wasPrimaryFiredLast = true
+TORPEDO,SINGLE # 2nd shot: wasPrimaryFiredLast is true -> fires secondary

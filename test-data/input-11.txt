@@ -1,0 +1,2 @@
+GT4500,5,0,0,0 # Secondary is empty in ALL mode
+TORPEDO,ALL # Primary fires, secondary is empty
