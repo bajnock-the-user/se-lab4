@@ -1,0 +1,2 @@
+GT4500,5,0,0,0 # Primary has 5, secondary empty
+TORPEDO,ALL # Primary fires, secondary skipped -> overall SUCCESS

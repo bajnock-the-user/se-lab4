@@ -1,0 +1,2 @@
+GT4500,0,0,0,0 # Both empty from start
+TORPEDO,SINGLE # Both empty -> FAIL

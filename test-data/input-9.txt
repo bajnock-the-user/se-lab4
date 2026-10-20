@@ -1,0 +1,3 @@
+GT4500,1,0,0,0 # Primary has 1, secondary is empty (0)
+TORPEDO,SINGLE # 1st shot: fires primary -> sets wasPrimaryFiredLast = true, primary becomes empty
+TORPEDO,SINGLE # 2nd shot: wasPrimaryFiredLast is true, secondary empty, primary empty -> FAIL

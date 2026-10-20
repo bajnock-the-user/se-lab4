@@ -1,0 +1,2 @@
+GT4500,0,0,5,0 # Primary is empty (0), secondary has 5
+TORPEDO,ALL # Primary is empty -> skipped, secondary fires
